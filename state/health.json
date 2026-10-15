@@ -43,9 +43,10 @@
  },
  "src-058": {
   "name": "DefenceTurk",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-15",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-10-15",
+  "lastCount": 0
  },
  "src-001": {
   "name": "Webrazzi",
@@ -59,7 +60,7 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-010": {
   "name": "TRT Haber · Bilim-Teknoloji",
@@ -80,20 +81,21 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 20
+  "lastCount": 0
  },
  "src-053": {
   "name": "Egirişim RSS",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-15",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-10-15",
+  "lastCount": 0
  },
  "src-025": {
   "name": "SavunmaSanayiST",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-015": {
   "name": "Webrazzi · Yatırım",
@@ -104,9 +106,10 @@
  },
  "src-050": {
   "name": "TRT Haber Bilim-Teknoloji RSS",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-15",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-10-15",
+  "lastCount": 25
  },
  "src-004": {
   "name": "Webtekno",
@@ -117,9 +120,10 @@
  },
  "src-052": {
   "name": "Webrazzi Yatırım RSS",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-15",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-10-15",
+  "lastCount": 15
  },
  "src-062": {
   "name": "SAÜ Bilgisayar Mühendisliği duyuruları",
@@ -154,11 +158,11 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-096": {
   "name": "Euronews Türkçe Next",
-  "fails": 1,
+  "fails": 2,
   "lastRun": "2026-10-15",
   "lastError": "HTTPError: 406 Client Error: Not Acceptable for url: https://tr.euronews.com/rss?level=vertical&name=next"
  },
@@ -171,10 +175,11 @@
  },
  "src-097": {
   "name": "Euronews Türkçe",
-  "fails": 0,
+  "fails": 1,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 25,
+  "lastError": "HTTPError: 406 Client Error: Not Acceptable for url: https://tr.euronews.com/rss"
  },
  "src-087": {
   "name": "Yeni Şafak Ekonomi",
@@ -199,9 +204,10 @@
  },
  "src-060": {
   "name": "Techmeme (The Verge/Ars yerine)",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-15",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-10-15",
+  "lastCount": 15
  },
  "src-086": {
   "name": "Yeni Şafak Teknoloji",
@@ -215,14 +221,15 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-092": {
   "name": "Cumhuriyet Bilim-Teknoloji",
-  "fails": 0,
+  "fails": 1,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 0
+  "lastCount": 0,
+  "lastError": "RetryError: HTTPSConnectionPool(host='www.cumhuriyet.com.tr', port=443): Max retries exceeded with url: /bilim-teknoloji (Caused by ResponseError('too many 503 "
  },
  "src-093": {
   "name": "Karar (genel RSS)",
@@ -254,13 +261,13 @@
  },
  "src-113": {
   "name": "Teknolojioku",
-  "fails": 1,
+  "fails": 2,
   "lastRun": "2026-10-15",
   "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.teknolojioku.com/"
  },
  "src-105": {
   "name": "Fortune Turkey",
-  "fails": 1,
+  "fails": 2,
   "lastRun": "2026-10-15",
   "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.fortuneturkey.com/rss"
  },
@@ -283,7 +290,7 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-099": {
   "name": "Haberler.com Teknoloji",
@@ -329,9 +336,10 @@
  },
  "src-049": {
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-15",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-10-15",
+  "lastCount": 25
  },
  "src-118": {
   "name": "Digitalage",
@@ -377,23 +385,24 @@
  },
  "src-061": {
   "name": "Hacker News 200+ puan (hnrss)",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-15",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-10-15",
+  "lastCount": 0
  },
  "src-157": {
   "name": "Fintechtime",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-200": {
   "name": "NVIDIA Blog",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 18
+  "lastCount": 0
  },
  "src-197": {
   "name": "Google AI (Keyword)",
@@ -435,35 +444,35 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-206": {
   "name": "Meta Newsroom",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-198": {
   "name": "Google Research",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 6
  },
  "src-203": {
   "name": "Hugging Face Blog",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-199": {
   "name": "Microsoft Research",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-136": {
   "name": "Defence Turkey",
@@ -477,7 +486,7 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-217": {
   "name": "Rest of World",
@@ -498,21 +507,21 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-213": {
   "name": "Ben's Bites",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 20
+  "lastCount": 0
  },
  "src-221": {
   "name": "The Information (başlıklar)",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 20
+  "lastCount": 0
  },
  "src-133": {
   "name": "C4Defence",
@@ -526,7 +535,7 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-218": {
   "name": "Semafor Tech",
@@ -540,35 +549,35 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 20
+  "lastCount": 0
  },
  "src-220": {
   "name": "Stratechery (özetler)",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-229": {
   "name": "SecurityWeek",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-226": {
   "name": "IEEE Spectrum",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 6
  },
  "src-219": {
   "name": "Platformer",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 15
+  "lastCount": 0
  },
  "src-227": {
   "name": "The Hacker News",
@@ -582,14 +591,14 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-235": {
   "name": "Unit 42",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 15
+  "lastCount": 0
  },
  "src-135": {
   "name": "HavaHaber",
@@ -610,7 +619,7 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-222": {
   "name": "Tom's Hardware",
@@ -624,14 +633,14 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-236": {
   "name": "Cisco Talos",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 15
+  "lastCount": 0
  },
  "src-244": {
   "name": "InfoQ",
@@ -645,21 +654,21 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 20
+  "lastCount": 0
  },
  "src-146": {
   "name": "MARKA – Doğu Marmara Kalkınma Ajansı",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-250": {
   "name": "EU Digital Strategy",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-243": {
   "name": "LWN.net",
@@ -680,21 +689,21 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 15
+  "lastCount": 0
  },
  "src-103": {
   "name": "Capital",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-257": {
   "name": "arXiv cs.SE",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-238": {
   "name": "SANS ISC",
@@ -708,11 +717,11 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-216": {
   "name": "VentureBeat",
-  "fails": 1,
+  "fails": 2,
   "lastRun": "2026-10-15",
   "lastError": "RetryError: HTTPSConnectionPool(host='venturebeat.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'"
  },
@@ -721,21 +730,21 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-256": {
   "name": "arXiv cs.DC + cs.AR",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-252": {
   "name": "Lawfare Cyber & Tech",
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-251": {
   "name": "EFF Deeplinks",
@@ -749,7 +758,7 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-258": {
   "name": "alphaXiv trend",
@@ -770,7 +779,7 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-234": {
   "name": "Google Threat Intelligence (Mandiant)",
@@ -784,6 +793,6 @@
   "fails": 0,
   "lastRun": "2026-10-15",
   "lastOk": "2026-10-15",
-  "lastCount": 25
+  "lastCount": 0
  }
 }
