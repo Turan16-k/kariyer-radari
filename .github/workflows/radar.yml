@@ -1,0 +1,58 @@
+name: Kariyer Radarı
+
+on:
+  schedule:
+    - cron: "30 4 * * *"    # 07:30 Türkiye — sabah taraması
+    - cron: "30 16 * * *"   # 19:30 Türkiye — akşam taraması
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "Hangi tarama?"
+        type: choice
+        options: [auto, sabah, aksam, haftalik]
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kariyer-radari
+  cancel-in-progress: false
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Bağımlılıklar
+        run: pip install -r requirements.txt
+
+      - name: Tara
+        env:
+          SLOT: ${{ github.event.inputs.slot || 'auto' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m radar --slot "$SLOT"
+
+      - name: Sonuçları kaydet
+        if: always()
+        run: |
+          git config user.name "kariyer-radari-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data state
+          if git diff --cached --quiet; then echo "Değişiklik yok"; exit 0; fi
+          git commit -q -m "tarama: $(TZ=Europe/Istanbul date '+%Y-%m-%d %H:%M')"
+          for i in 1 2 3; do
+            git pull -q --rebase && git push -q && exit 0
+            sleep 5
+          done
+          echo "Gönderilemedi"; exit 1
