@@ -1,0 +1,52 @@
+{
+  "_not": "Ayarlar. Gizli anahtarlar buraya DEĞİL, GitHub > Settings > Secrets'a yazılır.",
+  "timezone_offset_hours": 3,
+  "retention_days": 45,
+  "keep_saved_forever": true,
+  "max_age_days_on_ingest": 10,
+  "max_items_per_source": 25,
+  "http_timeout": 20,
+  "workers": 16,
+  "dedup_threshold": 87,
+  "min_score_to_keep": 1,
+  "notify": {
+    "min_score": 6,
+    "max_per_run": 12,
+    "always_kinds": [
+      "hackathon",
+      "ilan",
+      "bootcamp",
+      "sertifika"
+    ],
+    "deadline_warn_days": 3
+  },
+  "llm": {
+    "_not": "İsteğe bağlı. GEMINI_API_KEY veya GROQ_API_KEY secret'ı yoksa kural tabanlı mod çalışır. Model adları değişirse buradan güncelle.",
+    "enabled": true,
+    "provider_order": [
+      "gemini",
+      "groq"
+    ],
+    "gemini_model": "gemini-2.5-flash",
+    "groq_model": "llama-3.3-70b-versatile",
+    "max_items_per_run": 40,
+    "batch_size": 10,
+    "min_score_for_llm": 3
+  },
+  "sources_extra": {
+    "devpost": true,
+    "hf_papers": true,
+    "openalex": true,
+    "sessionize_events": [
+      {
+        "_ornek": "Sessionize etkinlik kimliği; etkinlik sayfasındaki API linkinden alınır",
+        "id": "",
+        "name": ""
+      }
+    ]
+  },
+  "contact_email": "",
+  "_contact_not": "OpenAlex'in hızlı havuzu için e-posta (isteğe bağlı, herkese açık repoda görünür; boş bırakabilirsin).",
+  "pano_url": "",
+  "_pano_not": "GitHub Pages adresin, ör. https://KULLANICIADI.github.io/kariyer-radari/ (Telegram mesajındaki 'Panoyu aç' bağlantısı için)."
+}
