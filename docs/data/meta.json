@@ -1,12 +1,12 @@
 {
- "lastRun": "2026-10-15T20:38:54+03:00",
- "slot": "ilk-kurulum",
+ "lastRun": "2026-10-15T21:09:10+03:00",
+ "slot": "aksam",
  "weekly": false,
- "jobs": 0,
- "errors": 0,
- "new": 0,
- "merged": 0,
- "total": 418,
+ "jobs": 144,
+ "errors": 11,
+ "new": 1063,
+ "merged": 22,
+ "total": 1481,
  "llm": false,
- "seconds": 0
+ "seconds": 14
 }
