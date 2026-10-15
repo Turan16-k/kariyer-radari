@@ -37,6 +37,9 @@ GROUP_CAT = {
 }
 GLOBAL_GROUPS = ("Global teknoloji", "Yapay zekâ: laboratuvarlar", "Teknoloji politikası", "Donanım ve çip")
 TR_GROUPS = ("Türkiye", "Kamu", "Savunma", "Yerel", "Teknopark", "Üniversite", "Topluluk", "Kariyer", "Fintech", "İslam")
+TECH_CATS = {"yapay-zeka", "siber-guvenlik", "yatirim", "girisim", "buyuk-teknoloji", "uzay-savunma", "akademi",
+             "kariyer", "islam-teknoloji"}
+LOCAL_GROUPS = ("Yerel", "Teknopark", "Üniversite", "Topluluk")
 OPP_GROUPS = ("Etkinlik ve fırsat", "Kariyer, burs")
 
 KIND_WEIGHT = {"hackathon": 5, "ilan": 5, "bootcamp": 4, "sertifika": 4, "etkinlik": 3,
@@ -117,6 +120,8 @@ def classify(entry: dict, src: dict | None = None) -> dict | None:
 
     if BLOCK_RX and BLOCK_RX.search(ft_title):
         return None
+    if len(title) < 20 or len(title.split()) < 4:
+        return None  # "Sakarya Üniversitesi" gibi menü/başlık parçaları
 
     # Kategoriler (başlık eşleşmesi 2 kat ağırlıklı)
     scores = {}
@@ -152,9 +157,13 @@ def classify(entry: dict, src: dict | None = None) -> dict | None:
         kind = "akademik"
     kind = kind or "haber"
 
-    # Alakasız genel haberleri ele
-    if kind == "haber" and not scores and not any(group.startswith(g) for g in TR_GROUPS + ("Yerel",)):
-        return None
+    # Alakasız genel haberleri ele: haberin kendi metninde teknoloji/kariyer sinyali olmalı
+    if kind == "haber":
+        tech = set(scores) & TECH_CATS
+        is_local_src = any(group.startswith(g) for g in LOCAL_GROUPS)
+        if not tech and not (is_local_src and scores):
+            if not (is_local_src and LOCAL_RX.get("Sakarya") and LOCAL_RX["Sakarya"].search(ft)):
+                return None
 
     # Kapsam
     host = (entry.get("url") or "").split("/")[2] if "://" in (entry.get("url") or "") else ""

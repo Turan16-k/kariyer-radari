@@ -15,6 +15,7 @@ from .util import CONFIG, DATA, SETTINGS, STATE, canonical_url, fold, item_id, l
 
 TR_MONTHS = ["", "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
 ROTATION_NEXT: dict = {}
+RULES_VERSION = "2"  # sınıflandırma kuralları değişince artır: eski otomatik kayıtlar yeniden süzülür
 SLOT_TITLE = {"sabah": "Sabah özeti", "aksam": "Akşam özeti", "haftalik": "Haftalık tarama"}
 
 
@@ -175,6 +176,35 @@ def process_entries(raw, items):
     return new, merged
 
 
+def refilter(items):
+    """Kurallar değiştiyse botun eklediği (score alanı olan) ve işaretlenmemiş kayıtları yeni kurallarla yeniden süz."""
+    st = load_json(STATE / "rules.json", {})
+    if st.get("version") == RULES_VERSION:
+        return items, 0
+    by_name = {s["name"]: s for s in load_json(CONFIG / "sources.json", [])}
+    keep, dropped = [], 0
+    for i in items:
+        if "score" not in i or i.get("status"):
+            keep.append(i)
+            continue
+        base = {k: i[k] for k in ("title", "url", "summary", "date", "source", "deadline", "field", "origin", "venue",
+                                  "mode", "links", "xs") if i.get(k) is not None}
+        if i.get("kind") in ("akademik",) or i.get("source") in ("Devpost", "OpenAlex", "Hugging Face Daily Papers"):
+            base["kind"] = i["kind"]
+            base["scope"] = i.get("scope")
+        src = by_name.get(i.get("source"), {})
+        if not src.get("group") and i.get("scope") == "tr":
+            base["lang"] = "tr"
+        r = classify(base, src)
+        if r is None:
+            dropped += 1
+            continue
+        r.update({"id": i["id"], "addedAt": i.get("addedAt"), "status": i.get("status", "")})
+        keep.append(r)
+    ROTATION_NEXT.setdefault("_rules", RULES_VERSION)
+    return keep, dropped
+
+
 def balance(new):
     """Türkiye ağırlığını koru: global haberler, Türkiye kayıtlarının yarısını (en az 12) geçmesin."""
     tr = [i for i in new if i["scope"] == "tr"]
@@ -291,6 +321,9 @@ def main(argv=None):
     log(f"Slot: {slot}{' + haftalık' if weekly else ''}")
 
     items = load_json(DATA / "items.json", [])
+    items, refiltered = refilter(items)
+    if refiltered:
+        log(f"Yeni kurallarla {refiltered} eski otomatik kayıt elendi")
     raw, src_by_id, n_jobs, n_err = collect(slot, weekly)
     new, merged = process_entries(raw, items)
     new = balance(new)
@@ -325,8 +358,11 @@ def main(argv=None):
     for name in ("companies", "vakiflar"):
         save_json(DATA / f"{name}.json", load_json(CONFIG / f"{name}.json", []))
     fetch.persist()
+    rules_done = ROTATION_NEXT.pop("_rules", None)
     if ROTATION_NEXT:
         save_json(STATE / "rotation.json", ROTATION_NEXT)
+    if rules_done:
+        save_json(STATE / "rules.json", {"version": rules_done})
     meta = {"lastRun": now().isoformat(timespec="seconds"), "slot": slot, "weekly": weekly, "jobs": n_jobs,
             "errors": n_err, "new": len(new), "merged": merged, "total": len(items), "llm": llm.available(),
             "seconds": round(time.time() - t0)}

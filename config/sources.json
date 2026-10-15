@@ -404,7 +404,8 @@
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
   "order": 49,
   "url": "https://www.aa.com.tr/tr/rss/default?cat=ekonomi",
-  "id": "src-049"
+  "id": "src-049",
+  "rss": "https://www.aa.com.tr/tr/rss/default?cat=ekonomi"
  },
  {
   "freq": "her-tarama",
@@ -412,7 +413,8 @@
   "name": "TRT Haber Bilim-Teknoloji RSS",
   "order": 50,
   "url": "https://www.trthaber.com/bilim_teknoloji_articles.rss",
-  "id": "src-050"
+  "id": "src-050",
+  "rss": "https://www.trthaber.com/bilim_teknoloji_articles.rss"
  },
  {
   "freq": "sabah",
@@ -420,7 +422,8 @@
   "name": "LOG",
   "order": 51,
   "url": "https://www.log.com.tr/feed/",
-  "id": "src-051"
+  "id": "src-051",
+  "rss": "https://www.log.com.tr/feed/"
  },
  {
   "freq": "her-tarama",
@@ -428,7 +431,8 @@
   "name": "Webrazzi Yatırım RSS",
   "order": 52,
   "url": "https://webrazzi.com/kategori/yatirim/feed/",
-  "id": "src-052"
+  "id": "src-052",
+  "rss": "https://webrazzi.com/kategori/yatirim/feed/"
  },
  {
   "freq": "her-tarama",
@@ -436,7 +440,8 @@
   "name": "Egirişim RSS",
   "order": 53,
   "url": "https://egirisim.com/feed/",
-  "id": "src-053"
+  "id": "src-053",
+  "rss": "https://egirisim.com/feed/"
  },
  {
   "freq": "haftalik",
@@ -444,7 +449,8 @@
   "name": "upcorn Shot TR (haftalık)",
   "order": 54,
   "url": "https://upcorn.substack.com/feed",
-  "id": "src-054"
+  "id": "src-054",
+  "rss": "https://upcorn.substack.com/feed"
  },
  {
   "freq": "haftalik",
@@ -452,7 +458,8 @@
   "name": "Fundalina haftalık fintech gündemi",
   "order": 55,
   "url": "https://www.fundalina.com/feed/",
-  "id": "src-055"
+  "id": "src-055",
+  "rss": "https://www.fundalina.com/feed/"
  },
  {
   "freq": "haftalik",
@@ -460,7 +467,8 @@
   "name": "İTÜ Çekirdek blog",
   "order": 56,
   "url": "https://blog.itucekirdek.com/feed",
-  "id": "src-056"
+  "id": "src-056",
+  "rss": "https://blog.itucekirdek.com/feed"
  },
  {
   "freq": "haftalik",
@@ -476,7 +484,8 @@
   "name": "DefenceTurk",
   "order": 58,
   "url": "https://www.defenceturk.net/feed",
-  "id": "src-058"
+  "id": "src-058",
+  "rss": "https://www.defenceturk.net/feed"
  },
  {
   "freq": "her-tarama",
@@ -484,7 +493,8 @@
   "name": "Siber Bülten",
   "order": 59,
   "url": "https://siberbulten.com/feed",
-  "id": "src-059"
+  "id": "src-059",
+  "rss": "https://siberbulten.com/feed"
  },
  {
   "freq": "her-tarama",
@@ -492,7 +502,8 @@
   "name": "Techmeme (The Verge/Ars yerine)",
   "order": 60,
   "url": "https://www.techmeme.com/feed.xml",
-  "id": "src-060"
+  "id": "src-060",
+  "rss": "https://www.techmeme.com/feed.xml"
  },
  {
   "freq": "aksam",
@@ -500,7 +511,8 @@
   "name": "Hacker News 200+ puan (hnrss)",
   "order": 61,
   "url": "https://hnrss.org/frontpage?points=200",
-  "id": "src-061"
+  "id": "src-061",
+  "rss": "https://hnrss.org/frontpage?points=200"
  },
  {
   "freq": "her-tarama",

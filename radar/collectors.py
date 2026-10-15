@@ -25,11 +25,15 @@ def rss(src: dict) -> list[dict]:
     except fetch.NotModified:
         fetch.mark(src["id"], src["name"], True, 0)
         return []
-    feed = feedparser.parse(r.content)
+    return _feed_entries(feedparser.parse(r.content), src)
+
+
+def _feed_entries(feed, src: dict) -> list[dict]:
     if feed.bozo and not feed.entries:
         raise ValueError(f"RSS çözülemedi: {feed.bozo_exception!r}"[:150])
+    limit = SETTINGS.get("max_items_per_academic_feed", 6) if src.get("group", "").startswith("Akademik") else MAX_PER_SOURCE
     out = []
-    for e in feed.entries[:MAX_PER_SOURCE]:
+    for e in feed.entries[:limit]:
         link = e.get("link") or ""
         title = clean_html(e.get("title", ""), 220)
         if not title or not link:
@@ -85,6 +89,9 @@ def pagediff(src: dict) -> list[dict]:
     except fetch.NotModified:
         fetch.mark(src["id"], src["name"], True, 0)
         return []
+    head = r.content[:400].lstrip().lower()
+    if b"<rss" in head or b"<feed" in head or b"<?xml" in head or "xml" in r.headers.get("Content-Type", ""):
+        return _feed_entries(feedparser.parse(r.content), src)  # aslında RSS
     soup = BeautifulSoup(r.text, "html.parser")
     for tag in soup(["nav", "footer", "header", "script", "style", "aside", "form"]):
         tag.decompose()

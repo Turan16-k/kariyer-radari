@@ -48,6 +48,9 @@ def get(url: str, *, conditional: bool = True, accept: str | None = None, timeou
         if c.get("lm"):
             headers["If-Modified-Since"] = c["lm"]
     r = session().get(url, headers=headers, timeout=timeout or TIMEOUT, allow_redirects=True)
+    if r.status_code == 406 and accept:  # bazı sunucular Accept başlığını sevmiyor
+        headers.pop("Accept", None)
+        r = session().get(url, headers=headers, timeout=timeout or TIMEOUT, allow_redirects=True)
     if r.status_code == 304:
         raise NotModified(url)
     r.raise_for_status()
