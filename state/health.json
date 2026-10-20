@@ -11,7 +11,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 10
+  "lastCount": 7
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
@@ -67,7 +67,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 2
+  "lastCount": 4
  },
  "src-070": {
   "name": "arXiv cs.CR yeni (aynı formatta cs.LG, cs.SE, cs.DC, cs.AR)",
@@ -221,7 +221,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-092": {
   "name": "Cumhuriyet Bilim-Teknoloji",
@@ -254,7 +254,7 @@
  },
  "src-059": {
   "name": "Siber Bülten",
-  "fails": 2,
+  "fails": 3,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-18",
   "lastCount": 0,
@@ -424,7 +424,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 0
+  "lastCount": 1
  },
  "src-173": {
   "name": "SAÜ Kariyer Merkezi staj ilanları",
@@ -508,7 +508,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 0
+  "lastCount": 25
  },
  "src-213": {
   "name": "Ben's Bites",
@@ -659,11 +659,10 @@
  },
  "src-146": {
   "name": "MARKA – Doğu Marmara Kalkınma Ajansı",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-20",
-  "lastOk": "2026-10-19",
-  "lastCount": 0,
-  "lastError": "ConnectTimeout: HTTPSConnectionPool(host='www.marka.org.tr', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(ho"
+  "lastOk": "2026-10-20",
+  "lastCount": 0
  },
  "src-250": {
   "name": "EU Digital Strategy",
@@ -719,7 +718,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 12
+  "lastCount": 0
  },
  "src-216": {
   "name": "VentureBeat",
@@ -841,7 +840,7 @@
  },
  "src-035": {
   "name": "Anbean Kampüs",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://anbeankampus.co/etkinlikler/"
  },
@@ -850,11 +849,11 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 7
+  "lastCount": 1
  },
  "src-037": {
   "name": "Devpost",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
@@ -867,7 +866,7 @@
  },
  "src-027": {
   "name": "Türkiye Uzay Ajansı",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
@@ -876,7 +875,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-033": {
   "name": "Youthall",
@@ -897,7 +896,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 0
+  "lastCount": 1
  },
  "src-026": {
   "name": "T3 Vakfı / TEKNOFEST",
@@ -911,14 +910,14 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 9
+  "lastCount": 0
  },
  "src-028": {
   "name": "BT Haber · Güvenlik",
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 6
+  "lastCount": 3
  },
  "src-051": {
   "name": "LOG",
@@ -939,11 +938,11 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 2
+  "lastCount": 1
  },
  "src-091": {
   "name": "Sözcü Teknoloji",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "HTTPError: 404 Client Error: Not Found for url: https://www.sozcu.com.tr/teknoloji/"
  },
@@ -959,7 +958,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-121": {
   "name": "Sakarya Haber",
@@ -987,7 +986,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 4
+  "lastCount": 0
  },
  "src-090": {
   "name": "Hürriyet Teknoloji (sayfa; RSS gecikmeli)",
@@ -1005,13 +1004,13 @@
  },
  "src-063": {
   "name": "SAÜ Haber",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-150": {
   "name": "SATSO (Sakarya TSO) komite haberleri",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.satso.org.tr/KomiteHaberleri.aspx"
  },
@@ -1024,7 +1023,7 @@
  },
  "src-156": {
   "name": "Teknopark İstanbul",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.teknoparkistanbul.com.tr/haberler"
  },
@@ -1033,7 +1032,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-141": {
   "name": "KOSGEB haberler",
@@ -1054,7 +1053,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-147": {
   "name": "İSTKA",
@@ -1096,7 +1095,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-166": {
   "name": "Ufuk Avrupa",
@@ -1110,17 +1109,17 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 1
+  "lastCount": 4
  },
  "src-174": {
   "name": "SAÜ etkinlik takvimi",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-185": {
   "name": "Luma İstanbul (meetup)",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
@@ -1136,7 +1135,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-183": {
   "name": "Patika.dev",
@@ -1150,7 +1149,7 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-182": {
   "name": "Microfon burslar",
@@ -1164,15 +1163,14 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-142": {
   "name": "Ticaret Bakanlığı",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-10-20",
-  "lastOk": "2026-10-18",
-  "lastCount": 0,
-  "lastError": "ConnectionError: HTTPSConnectionPool(host='ticaret.gov.tr', port=443): Max retries exceeded with url: /haberler (Caused by NameResolutionError(\"HTTPSConnection("
+  "lastOk": "2026-10-20",
+  "lastCount": 5
  },
  "src-263": {
   "name": "Halk54 (Sakarya yerel)",
@@ -1190,7 +1188,7 @@
  },
  "src-184": {
   "name": "Kodluyoruz",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
@@ -1199,21 +1197,20 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 10
+  "lastCount": 8
  },
  "src-177": {
   "name": "İTÜ haberler",
-  "fails": 4,
+  "fails": 5,
   "lastRun": "2026-10-20",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-189": {
   "name": "Habitat Derneği",
-  "fails": 2,
+  "fails": 0,
   "lastRun": "2026-10-20",
-  "lastOk": "2026-10-17",
-  "lastCount": 10,
-  "lastError": "RetryError: HTTPSConnectionPool(host='habitatdernegi.org', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error respons"
+  "lastOk": "2026-10-20",
+  "lastCount": 10
  },
  "src-122": {
   "name": "Gündem54 (Sakarya)",
@@ -1227,6 +1224,6 @@
   "fails": 0,
   "lastRun": "2026-10-20",
   "lastOk": "2026-10-20",
-  "lastCount": 10
+  "lastCount": 9
  }
 }
