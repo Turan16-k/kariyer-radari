@@ -11,7 +11,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 10
+  "lastCount": 4
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
@@ -95,7 +95,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-015": {
   "name": "Webrazzi · Yatırım",
@@ -220,7 +220,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-092": {
   "name": "Cumhuriyet Bilim-Teknoloji",
@@ -310,7 +310,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-102": {
   "name": "Ekonomi Gazetesi",
@@ -380,7 +380,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-061": {
   "name": "Hacker News 200+ puan (hnrss)",
@@ -717,7 +717,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 0
+  "lastCount": 12
  },
  "src-216": {
   "name": "VentureBeat",
@@ -848,7 +848,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 8
+  "lastCount": 3
  },
  "src-037": {
   "name": "Devpost",
@@ -874,14 +874,14 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 8
+  "lastCount": 1
  },
  "src-033": {
   "name": "Youthall",
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 0
+  "lastCount": 1
  },
  "src-007": {
   "name": "BT Haber",
@@ -916,7 +916,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 6
+  "lastCount": 2
  },
  "src-051": {
   "name": "LOG",
@@ -985,7 +985,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 1
+  "lastCount": 2
  },
  "src-090": {
   "name": "Hürriyet Teknoloji (sayfa; RSS gecikmeli)",
@@ -999,7 +999,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 20
+  "lastCount": 0
  },
  "src-063": {
   "name": "SAÜ Haber",
@@ -1031,7 +1031,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 2
+  "lastCount": 1
  },
  "src-141": {
   "name": "KOSGEB haberler",
@@ -1052,7 +1052,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 10
+  "lastCount": 3
  },
  "src-147": {
   "name": "İSTKA",
@@ -1108,7 +1108,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 3
+  "lastCount": 4
  },
  "src-174": {
   "name": "SAÜ etkinlik takvimi",
@@ -1127,14 +1127,14 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 2
+  "lastCount": 0
  },
  "src-169": {
   "name": "Yıldız Teknopark duyurular",
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-183": {
   "name": "Patika.dev",
@@ -1155,7 +1155,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 5
+  "lastCount": 0
  },
  "src-190": {
   "name": "T3 Vakfı haberler",
@@ -1169,7 +1169,7 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 4
+  "lastCount": 0
  },
  "src-263": {
   "name": "Halk54 (Sakarya yerel)",
@@ -1206,11 +1206,10 @@
  },
  "src-189": {
   "name": "Habitat Derneği",
-  "fails": 4,
+  "fails": 0,
   "lastRun": "2026-10-27",
-  "lastOk": "2026-10-22",
-  "lastCount": 10,
-  "lastError": "RetryError: HTTPSConnectionPool(host='habitatdernegi.org', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error respons"
+  "lastOk": "2026-10-27",
+  "lastCount": 10
  },
  "src-122": {
   "name": "Gündem54 (Sakarya)",
@@ -1224,6 +1223,6 @@
   "fails": 0,
   "lastRun": "2026-10-27",
   "lastOk": "2026-10-27",
-  "lastCount": 10
+  "lastCount": 8
  }
 }
