@@ -9,29 +9,29 @@
  "src-018": {
   "name": "TechCrunch",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 6
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 10
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 10
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 6
  },
  "src-029": {
   "name": "The Record",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 5
  },
  "src-030": {
   "name": "BleepingComputer",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-017": {
@@ -44,30 +44,30 @@
  "src-058": {
   "name": "DefenceTurk",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 10
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-001": {
   "name": "Webrazzi",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-002": {
   "name": "Egirişim",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-010": {
   "name": "TRT Haber · Bilim-Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 4
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 3
  },
  "src-070": {
   "name": "arXiv cs.CR yeni (aynı formatta cs.LG, cs.SE, cs.DC, cs.AR)",
@@ -79,85 +79,85 @@
  "src-003": {
   "name": "ShiftDelete.Net",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-053": {
   "name": "Egirişim RSS",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-025": {
   "name": "SavunmaSanayiST",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 10
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-015": {
   "name": "Webrazzi · Yatırım",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-050": {
   "name": "TRT Haber Bilim-Teknoloji RSS",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-004": {
   "name": "Webtekno",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-052": {
   "name": "Webrazzi Yatırım RSS",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-062": {
   "name": "SAÜ Bilgisayar Mühendisliği duyuruları",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-085": {
   "name": "NTV Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-081": {
   "name": "Teknoblog",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-089": {
   "name": "Sabah Teknokulis",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-078": {
   "name": "haber.aero (havacılık, savunma, uzay)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-096": {
@@ -190,8 +190,8 @@
  "src-082": {
   "name": "Habertürk Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-098": {
@@ -204,22 +204,22 @@
  "src-060": {
   "name": "Techmeme (The Verge/Ars yerine)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-086": {
   "name": "Yeni Şafak Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-080": {
   "name": "FinTech İstanbul",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-092": {
@@ -273,8 +273,8 @@
  "src-084": {
   "name": "Milliyet Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-106": {
@@ -294,8 +294,8 @@
  "src-099": {
   "name": "Haberler.com Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-114": {
@@ -308,8 +308,8 @@
  "src-112": {
   "name": "Megabayt",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-102": {
@@ -322,8 +322,8 @@
  "src-009": {
   "name": "AA · Bilim-Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-116": {
@@ -336,8 +336,8 @@
  "src-049": {
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-118": {
@@ -357,29 +357,29 @@
  "src-107": {
   "name": "CNBC-e",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-194": {
   "name": "OpenAI News",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-196": {
   "name": "Google DeepMind",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-195": {
   "name": "Anthropic News",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-061": {
@@ -392,8 +392,8 @@
  "src-157": {
   "name": "Fintechtime",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-200": {
@@ -413,22 +413,22 @@
  "src-180": {
   "name": "Öğrenci Kariyeri (burs, staj)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-172": {
   "name": "SAÜ Yazılım Mühendisliği",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-173": {
   "name": "SAÜ Kariyer Merkezi staj ilanları",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-201": {
@@ -483,8 +483,8 @@
  "src-215": {
   "name": "MIT Technology Review",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-217": {
@@ -504,8 +504,8 @@
  "src-207": {
   "name": "Simon Willison",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-213": {
@@ -518,8 +518,8 @@
  "src-221": {
   "name": "The Information (başlıklar)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-133": {
@@ -560,8 +560,8 @@
  "src-229": {
   "name": "SecurityWeek",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-226": {
@@ -581,8 +581,8 @@
  "src-227": {
   "name": "The Hacker News",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-228": {
@@ -623,8 +623,8 @@
  "src-222": {
   "name": "Tom's Hardware",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-241": {
@@ -658,8 +658,8 @@
  "src-146": {
   "name": "MARKA – Doğu Marmara Kalkınma Ajansı",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-250": {
@@ -680,8 +680,8 @@
  "src-230": {
   "name": "Dark Reading",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-231": {
@@ -715,9 +715,9 @@
  "gnews": {
   "name": "Google Haberler RSS",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 1
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-216": {
   "name": "VentureBeat",
@@ -798,43 +798,43 @@
  "src-008": {
   "name": "Dünya · Bilim ve Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-006": {
   "name": "Chip Online",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-012": {
   "name": "Bloomberg HT · Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-011": {
   "name": "Ekonomim · Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-005": {
   "name": "DonanımHaber",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-020": {
   "name": "TÜBİTAK haberleri",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-035": {
@@ -846,9 +846,9 @@
  "src-016": {
   "name": "Webrazzi · Girişimler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 5
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-037": {
   "name": "Devpost",
@@ -859,8 +859,8 @@
  "src-032": {
   "name": "Techcareer",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-027": {
@@ -871,74 +871,73 @@
  },
  "src-023": {
   "name": "Resmî Gazete (kök sayfa eski önbellek döndürüyor; günün kararlarını haber siteleri üzerinden ara)",
-  "fails": 1,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-27",
-  "lastCount": 1,
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "fails": 0,
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 10
  },
  "src-033": {
   "name": "Youthall",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-007": {
   "name": "BT Haber",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-031": {
   "name": "Coderspace",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-026": {
   "name": "T3 Vakfı / TEKNOFEST",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-069": {
   "name": "Hugging Face trending papers",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 10
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 1
  },
  "src-028": {
   "name": "BT Haber · Güvenlik",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 2
  },
  "src-051": {
   "name": "LOG",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-064": {
   "name": "SUBÜ Bilgisayar Mühendisliği duyuruları",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-067": {
   "name": "YTÜ haberler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 1
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-091": {
   "name": "Sözcü Teknoloji",
@@ -949,57 +948,57 @@
  "src-100": {
   "name": "Yeni Akit Teknoloji (islam-teknoloji)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-077": {
   "name": "TÜBİTAK BİDEB açık programlar",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-121": {
   "name": "Sakarya Haber",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-094": {
   "name": "İHA Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-132": {
   "name": "Haber.aero Uzay",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-065": {
   "name": "Sakarya Teknokent haberler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-090": {
   "name": "Hürriyet Teknoloji (sayfa; RSS gecikmeli)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-138": {
   "name": "TCMB basın duyuruları RSS",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-063": {
@@ -1017,8 +1016,8 @@
  "src-127": {
   "name": "Baykar haberler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-156": {
@@ -1030,87 +1029,86 @@
  "src-139": {
   "name": "SPK bültenleri",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 1
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-141": {
   "name": "KOSGEB haberler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-066": {
   "name": "GTÜ duyurular",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 2
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-148": {
   "name": "Sakarya Büyükşehir",
-  "fails": 1,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-27",
-  "lastCount": 3,
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "fails": 0,
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-147": {
   "name": "İSTKA",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-143": {
   "name": "Ulaştırma ve Altyapı Bakanlığı",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-151": {
   "name": "Kocaeli Sanayi Odası",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-152": {
   "name": "TİM haberler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-165": {
   "name": "startups.watch etkinlik takvimi",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-144": {
   "name": "YÖK duyurular",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 1
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-166": {
   "name": "Ufuk Avrupa",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-181": {
   "name": "Kariyer Pusulan",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 4
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 2
  },
  "src-174": {
   "name": "SAÜ etkinlik takvimi",
@@ -1127,64 +1125,64 @@
  "src-168": {
   "name": "Yıldız Teknopark haberler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-169": {
   "name": "Yıldız Teknopark duyurular",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-183": {
   "name": "Patika.dev",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 1
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-179": {
   "name": "Toptalent",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-182": {
   "name": "Microfon burslar",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 1
  },
  "src-190": {
   "name": "T3 Vakfı haberler",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 2
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-142": {
   "name": "Ticaret Bakanlığı",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 2
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 1
  },
  "src-263": {
   "name": "Halk54 (Sakarya yerel)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "hf-papers": {
   "name": "Hugging Face Daily Papers API",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-184": {
@@ -1196,9 +1194,9 @@
  "src-262": {
   "name": "Ekonomi Gazetesi şehir haberleri (Sakarya)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 10
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 8
  },
  "src-177": {
   "name": "İTÜ haberler",
@@ -1208,8 +1206,8 @@
  },
  "src-189": {
   "name": "Habitat Derneği",
-  "fails": 1,
-  "lastRun": "2026-10-29",
+  "fails": 2,
+  "lastRun": "2026-10-30",
   "lastOk": "2026-10-27",
   "lastCount": 10,
   "lastError": "RetryError: HTTPSConnectionPool(host='habitatdernegi.org', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error respons"
@@ -1217,15 +1215,15 @@
  "src-122": {
   "name": "Gündem54 (Sakarya)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-134": {
   "name": "Envanter Medya",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  }
 }
