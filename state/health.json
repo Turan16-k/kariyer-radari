@@ -2,23 +2,23 @@
  "src-043": {
   "name": "Hacker News",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 2
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 4
  },
  "src-018": {
   "name": "TechCrunch",
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 10
+  "lastCount": 7
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 6
+  "lastCount": 10
  },
  "src-029": {
   "name": "The Record",
@@ -37,16 +37,16 @@
  "src-017": {
   "name": "Crunchbase News",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 6
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-058": {
   "name": "DefenceTurk",
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-001": {
   "name": "Webrazzi",
@@ -60,7 +60,7 @@
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-010": {
   "name": "TRT Haber · Bilim-Teknoloji",
@@ -72,9 +72,9 @@
  "src-070": {
   "name": "arXiv cs.CR yeni (aynı formatta cs.LG, cs.SE, cs.DC, cs.AR)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 10
  },
  "src-003": {
   "name": "ShiftDelete.Net",
@@ -88,7 +88,7 @@
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-025": {
   "name": "SavunmaSanayiST",
@@ -130,7 +130,7 @@
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 0
+  "lastCount": 1
  },
  "src-085": {
   "name": "NTV Teknoloji",
@@ -169,22 +169,22 @@
  "src-083": {
   "name": "Habertürk Ekonomi",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-097": {
   "name": "Euronews Türkçe",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-087": {
   "name": "Yeni Şafak Ekonomi",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-082": {
@@ -197,8 +197,8 @@
  "src-098": {
   "name": "Medyascope",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 12
  },
  "src-060": {
@@ -220,34 +220,34 @@
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-092": {
   "name": "Cumhuriyet Bilim-Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-093": {
   "name": "Karar (genel RSS)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-088": {
   "name": "Star Teknoloji",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-079": {
   "name": "Defensehere (Türkçe)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-059": {
@@ -280,15 +280,15 @@
  "src-106": {
   "name": "Ekonomist",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-110": {
   "name": "Sanayi Gazetesi",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-099": {
@@ -301,8 +301,8 @@
  "src-114": {
   "name": "Teknotalk",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-112": {
@@ -315,8 +315,8 @@
  "src-102": {
   "name": "Ekonomi Gazetesi",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-009": {
@@ -329,9 +329,9 @@
  "src-116": {
   "name": "Tamindir Haber",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 8
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 1
  },
  "src-049": {
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
@@ -343,15 +343,15 @@
  "src-118": {
   "name": "Digitalage",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-104": {
   "name": "Forbes Türkiye",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-107": {
@@ -385,29 +385,29 @@
  "src-061": {
   "name": "Hacker News 200+ puan (hnrss)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 12
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 10
  },
  "src-157": {
   "name": "Fintechtime",
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-200": {
   "name": "NVIDIA Blog",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 18
  },
  "src-197": {
   "name": "Google AI (Keyword)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-180": {
@@ -434,51 +434,51 @@
  "src-201": {
   "name": "NVIDIA Developer",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-202": {
   "name": "Mistral News",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 25
  },
  "src-206": {
   "name": "Meta Newsroom",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-198": {
   "name": "Google Research",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 6
  },
  "src-203": {
   "name": "Hugging Face Blog",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-199": {
   "name": "Microsoft Research",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 6
  },
  "src-136": {
   "name": "Defence Turkey",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 1
  },
  "src-215": {
   "name": "MIT Technology Review",
@@ -490,15 +490,15 @@
  "src-217": {
   "name": "Rest of World",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 12
  },
  "src-214": {
   "name": "AlphaSignal",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-207": {
@@ -511,8 +511,8 @@
  "src-213": {
   "name": "Ben's Bites",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-221": {
@@ -525,36 +525,36 @@
  "src-133": {
   "name": "C4Defence",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 3
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 1
  },
  "src-223": {
   "name": "ServeTheHome",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 6
  },
  "src-218": {
   "name": "Semafor Tech",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 8
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 5
  },
  "src-210": {
   "name": "Latent Space / AINews",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-220": {
   "name": "Stratechery (özetler)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-229": {
@@ -567,16 +567,16 @@
  "src-226": {
   "name": "IEEE Spectrum",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 6
  },
  "src-219": {
   "name": "Platformer",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 15
  },
  "src-227": {
   "name": "The Hacker News",
@@ -588,36 +588,36 @@
  "src-228": {
   "name": "Krebs on Security",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-235": {
   "name": "Unit 42",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-135": {
   "name": "HavaHaber",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 0
  },
  "src-224": {
   "name": "The Next Platform",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-237": {
   "name": "Microsoft Security Blog",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-222": {
@@ -630,30 +630,30 @@
  "src-241": {
   "name": "GitHub Changelog",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-236": {
   "name": "Cisco Talos",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-244": {
   "name": "InfoQ",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-239": {
   "name": "Cloudflare Blog",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 20
  },
  "src-146": {
   "name": "MARKA – Doğu Marmara Kalkınma Ajansı",
@@ -673,8 +673,8 @@
  "src-243": {
   "name": "LWN.net",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-230": {
@@ -687,29 +687,29 @@
  "src-231": {
   "name": "Risky Bulletin",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 15
  },
  "src-103": {
   "name": "Capital",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-257": {
   "name": "arXiv cs.SE",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 6
  },
  "src-238": {
   "name": "SANS ISC",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "gnews": {
@@ -717,7 +717,7 @@
   "fails": 0,
   "lastRun": "2026-10-30",
   "lastOk": "2026-10-30",
-  "lastCount": 0
+  "lastCount": 12
  },
  "src-216": {
   "name": "VentureBeat",
@@ -728,71 +728,71 @@
  "src-115": {
   "name": "Hardware Plus (HWP)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-256": {
   "name": "arXiv cs.DC + cs.AR",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 0
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 6
  },
  "src-252": {
   "name": "Lawfare Cyber & Tech",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
-  "lastCount": 2
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
+  "lastCount": 0
  },
  "src-251": {
   "name": "EFF Deeplinks",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-245": {
   "name": "The New Stack",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-258": {
   "name": "alphaXiv trend",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "devpost": {
   "name": "Devpost API",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 17
  },
  "src-240": {
   "name": "GitHub Blog",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 10
  },
  "src-234": {
   "name": "Google Threat Intelligence (Mandiant)",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 20
  },
  "src-117": {
   "name": "Swipeline",
   "fails": 0,
-  "lastRun": "2026-10-29",
-  "lastOk": "2026-10-29",
+  "lastRun": "2026-10-30",
+  "lastOk": "2026-10-30",
   "lastCount": 25
  },
  "src-008": {
