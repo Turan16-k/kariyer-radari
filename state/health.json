@@ -4,21 +4,21 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 2
+  "lastCount": 0
  },
  "src-018": {
   "name": "TechCrunch",
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 8
+  "lastCount": 3
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-029": {
   "name": "The Record",
@@ -116,7 +116,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 21
+  "lastCount": 18
  },
  "src-052": {
   "name": "Webrazzi Yatırım RSS",
@@ -175,10 +175,11 @@
  },
  "src-097": {
   "name": "Euronews Türkçe",
-  "fails": 0,
+  "fails": 1,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 25
+  "lastCount": 25,
+  "lastError": "HTTPError: 406 Client Error: Not Acceptable for url: https://tr.euronews.com/rss"
  },
  "src-087": {
   "name": "Yeni Şafak Ekonomi",
@@ -227,7 +228,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 4
+  "lastCount": 10
  },
  "src-093": {
   "name": "Karar (genel RSS)",
@@ -248,7 +249,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 0
+  "lastCount": 7
  },
  "src-059": {
   "name": "Siber Bülten",
@@ -387,7 +388,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 12
+  "lastCount": 6
  },
  "src-157": {
   "name": "Fintechtime",
@@ -401,7 +402,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 18
+  "lastCount": 0
  },
  "src-197": {
   "name": "Google AI (Keyword)",
@@ -436,7 +437,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-202": {
   "name": "Mistral News",
@@ -471,7 +472,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-136": {
   "name": "Defence Turkey",
@@ -506,7 +507,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-213": {
   "name": "Ben's Bites",
@@ -534,7 +535,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-218": {
   "name": "Semafor Tech",
@@ -562,7 +563,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-226": {
   "name": "IEEE Spectrum",
@@ -618,7 +619,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-222": {
   "name": "Tom's Hardware",
@@ -639,7 +640,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 0
+  "lastCount": 15
  },
  "src-244": {
   "name": "InfoQ",
@@ -717,7 +718,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 0
+  "lastCount": 12
  },
  "src-216": {
   "name": "VentureBeat",
@@ -730,7 +731,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-256": {
   "name": "arXiv cs.DC + cs.AR",
@@ -744,7 +745,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-251": {
   "name": "EFF Deeplinks",
@@ -758,7 +759,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 0
+  "lastCount": 25
  },
  "src-258": {
   "name": "alphaXiv trend",
@@ -772,7 +773,7 @@
   "fails": 0,
   "lastRun": "2026-10-31",
   "lastOk": "2026-10-31",
-  "lastCount": 17
+  "lastCount": 18
  },
  "src-240": {
   "name": "GitHub Blog",
