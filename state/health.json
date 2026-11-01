@@ -4,7 +4,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 0
+  "lastCount": 2
  },
  "src-018": {
   "name": "TechCrunch",
@@ -46,7 +46,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-001": {
   "name": "Webrazzi",
@@ -60,14 +60,14 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-010": {
   "name": "TRT Haber · Bilim-Teknoloji",
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 4
+  "lastCount": 2
  },
  "src-070": {
   "name": "arXiv cs.CR yeni (aynı formatta cs.LG, cs.SE, cs.DC, cs.AR)",
@@ -88,14 +88,14 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-025": {
   "name": "SavunmaSanayiST",
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-015": {
   "name": "Webrazzi · Yatırım",
@@ -116,7 +116,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 7
+  "lastCount": 1
  },
  "src-052": {
   "name": "Webrazzi Yatırım RSS",
@@ -141,7 +141,7 @@
  },
  "src-081": {
   "name": "Teknoblog",
-  "fails": 1,
+  "fails": 2,
   "lastRun": "2026-11-01",
   "lastOk": "2026-10-31",
   "lastCount": 10,
@@ -221,7 +221,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-092": {
   "name": "Cumhuriyet Bilim-Teknoloji",
@@ -246,11 +246,10 @@
  },
  "src-079": {
   "name": "Defensehere (Türkçe)",
-  "fails": 1,
+  "fails": 0,
   "lastRun": "2026-11-01",
-  "lastOk": "2026-10-31",
-  "lastCount": 7,
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "lastOk": "2026-11-01",
+  "lastCount": 8
  },
  "src-059": {
   "name": "Siber Bülten",
@@ -333,7 +332,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 8
+  "lastCount": 0
  },
  "src-049": {
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
@@ -389,14 +388,14 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 9
+  "lastCount": 10
  },
  "src-157": {
   "name": "Fintechtime",
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-200": {
   "name": "NVIDIA Blog",
@@ -501,7 +500,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 4
+  "lastCount": 7
  },
  "src-207": {
   "name": "Simon Willison",
@@ -536,7 +535,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-218": {
   "name": "Semafor Tech",
@@ -571,7 +570,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 0
+  "lastCount": 6
  },
  "src-219": {
   "name": "Platformer",
@@ -606,7 +605,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 0
+  "lastCount": 5
  },
  "src-224": {
   "name": "The Next Platform",
@@ -620,7 +619,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-222": {
   "name": "Tom's Hardware",
@@ -760,7 +759,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 0
+  "lastCount": 25
  },
  "src-258": {
   "name": "alphaXiv trend",
@@ -795,7 +794,7 @@
   "fails": 0,
   "lastRun": "2026-11-01",
   "lastOk": "2026-11-01",
-  "lastCount": 0
+  "lastCount": 25
  },
  "src-008": {
   "name": "Dünya · Bilim ve Teknoloji",
