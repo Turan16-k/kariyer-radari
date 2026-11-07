@@ -4,21 +4,21 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 1
+  "lastCount": 6
  },
  "src-018": {
   "name": "TechCrunch",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 4
+  "lastCount": 3
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 7
+  "lastCount": 6
  },
  "src-029": {
   "name": "The Record",
@@ -39,7 +39,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-058": {
   "name": "DefenceTurk",
@@ -67,7 +67,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 2
+  "lastCount": 1
  },
  "src-070": {
   "name": "arXiv cs.CR yeni (aynı formatta cs.LG, cs.SE, cs.DC, cs.AR)",
@@ -159,7 +159,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-096": {
   "name": "Euronews Türkçe Next",
@@ -176,11 +176,10 @@
  },
  "src-097": {
   "name": "Euronews Türkçe",
-  "fails": 2,
+  "fails": 0,
   "lastRun": "2026-11-07",
-  "lastOk": "2026-11-05",
-  "lastCount": 25,
-  "lastError": "HTTPError: 406 Client Error: Not Acceptable for url: https://tr.euronews.com/rss"
+  "lastOk": "2026-11-07",
+  "lastCount": 25
  },
  "src-087": {
   "name": "Yeni Şafak Ekonomi",
@@ -229,7 +228,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 6
  },
  "src-093": {
   "name": "Karar (genel RSS)",
@@ -250,7 +249,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-059": {
   "name": "Siber Bülten",
@@ -333,7 +332,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 5
+  "lastCount": 1
  },
  "src-049": {
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
@@ -389,21 +388,21 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 8
+  "lastCount": 4
  },
  "src-157": {
   "name": "Fintechtime",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 0
+  "lastCount": 10
  },
  "src-200": {
   "name": "NVIDIA Blog",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 18
+  "lastCount": 0
  },
  "src-197": {
   "name": "Google AI (Keyword)",
@@ -438,7 +437,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-202": {
   "name": "Mistral News",
@@ -452,7 +451,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-198": {
   "name": "Google Research",
@@ -466,7 +465,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-199": {
   "name": "Microsoft Research",
@@ -501,7 +500,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 6
  },
  "src-207": {
   "name": "Simon Willison",
@@ -529,7 +528,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 4
+  "lastCount": 1
  },
  "src-223": {
   "name": "ServeTheHome",
@@ -543,7 +542,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 2
+  "lastCount": 0
  },
  "src-210": {
   "name": "Latent Space / AINews",
@@ -557,21 +556,21 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-229": {
   "name": "SecurityWeek",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-226": {
   "name": "IEEE Spectrum",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-219": {
   "name": "Platformer",
@@ -592,21 +591,21 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-235": {
   "name": "Unit 42",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 15
+  "lastCount": 0
  },
  "src-135": {
   "name": "HavaHaber",
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 4
+  "lastCount": 3
  },
  "src-224": {
   "name": "The Next Platform",
@@ -620,7 +619,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-222": {
   "name": "Tom's Hardware",
@@ -634,7 +633,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-236": {
   "name": "Cisco Talos",
@@ -746,7 +745,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 1
+  "lastCount": 0
  },
  "src-251": {
   "name": "EFF Deeplinks",
@@ -757,7 +756,7 @@
  },
  "src-245": {
   "name": "The New Stack",
-  "fails": 3,
+  "fails": 4,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-04",
   "lastCount": 25,
@@ -768,7 +767,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 3
  },
  "devpost": {
   "name": "Devpost API",
@@ -782,7 +781,7 @@
   "fails": 0,
   "lastRun": "2026-11-07",
   "lastOk": "2026-11-07",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-234": {
   "name": "Google Threat Intelligence (Mandiant)",
