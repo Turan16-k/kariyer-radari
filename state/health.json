@@ -4,21 +4,21 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 2
+  "lastCount": 4
  },
  "src-018": {
   "name": "TechCrunch",
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 2
+  "lastCount": 5
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 8
  },
  "src-029": {
   "name": "The Record",
@@ -39,7 +39,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 2
+  "lastCount": 0
  },
  "src-058": {
   "name": "DefenceTurk",
@@ -67,7 +67,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 2
+  "lastCount": 1
  },
  "src-070": {
   "name": "arXiv cs.CR yeni (aynı formatta cs.LG, cs.SE, cs.DC, cs.AR)",
@@ -228,7 +228,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 9
+  "lastCount": 6
  },
  "src-093": {
   "name": "Karar (genel RSS)",
@@ -332,7 +332,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 5
+  "lastCount": 2
  },
  "src-049": {
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
@@ -346,7 +346,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-104": {
   "name": "Forbes Türkiye",
@@ -388,7 +388,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 12
+  "lastCount": 6
  },
  "src-157": {
   "name": "Fintechtime",
@@ -402,7 +402,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 18
+  "lastCount": 0
  },
  "src-197": {
   "name": "Google AI (Keyword)",
@@ -423,7 +423,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 2
+  "lastCount": 0
  },
  "src-173": {
   "name": "SAÜ Kariyer Merkezi staj ilanları",
@@ -451,7 +451,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-198": {
   "name": "Google Research",
@@ -465,14 +465,14 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-199": {
   "name": "Microsoft Research",
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-136": {
   "name": "Defence Turkey",
@@ -500,14 +500,14 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 6
  },
  "src-207": {
   "name": "Simon Willison",
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-213": {
   "name": "Ben's Bites",
@@ -528,7 +528,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 3
+  "lastCount": 1
  },
  "src-223": {
   "name": "ServeTheHome",
@@ -542,7 +542,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 5
+  "lastCount": 0
  },
  "src-210": {
   "name": "Latent Space / AINews",
@@ -556,7 +556,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-229": {
   "name": "SecurityWeek",
@@ -570,7 +570,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 6
+  "lastCount": 0
  },
  "src-219": {
   "name": "Platformer",
@@ -591,21 +591,21 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-235": {
   "name": "Unit 42",
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 15
+  "lastCount": 0
  },
  "src-135": {
   "name": "HavaHaber",
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 6
+  "lastCount": 1
  },
  "src-224": {
   "name": "The Next Platform",
@@ -619,7 +619,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-222": {
   "name": "Tom's Hardware",
@@ -633,14 +633,14 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-236": {
   "name": "Cisco Talos",
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 15
+  "lastCount": 0
  },
  "src-244": {
   "name": "InfoQ",
@@ -718,7 +718,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 12
+  "lastCount": 0
  },
  "src-216": {
   "name": "VentureBeat",
@@ -731,7 +731,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 25
+  "lastCount": 0
  },
  "src-256": {
   "name": "arXiv cs.DC + cs.AR",
@@ -745,7 +745,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 2
+  "lastCount": 0
  },
  "src-251": {
   "name": "EFF Deeplinks",
@@ -767,7 +767,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 2
  },
  "devpost": {
   "name": "Devpost API",
@@ -781,7 +781,7 @@
   "fails": 0,
   "lastRun": "2026-11-14",
   "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastCount": 0
  },
  "src-234": {
   "name": "Google Threat Intelligence (Mandiant)",
