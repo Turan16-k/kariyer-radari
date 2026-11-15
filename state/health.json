@@ -9,29 +9,29 @@
  "src-018": {
   "name": "TechCrunch",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
-  "lastCount": 2
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 4
  },
  "src-044": {
   "name": "Hugging Face Daily Papers",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 8
  },
  "src-029": {
   "name": "The Record",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 5
  },
  "src-030": {
   "name": "BleepingComputer",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 15
  },
  "src-017": {
@@ -44,30 +44,30 @@
  "src-058": {
   "name": "DefenceTurk",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-001": {
   "name": "Webrazzi",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 20
  },
  "src-002": {
   "name": "Egirişim",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-010": {
   "name": "TRT Haber · Bilim-Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
-  "lastCount": 2
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 1
  },
  "src-070": {
   "name": "arXiv cs.CR yeni (aynı formatta cs.LG, cs.SE, cs.DC, cs.AR)",
@@ -79,93 +79,93 @@
  "src-003": {
   "name": "ShiftDelete.Net",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-053": {
   "name": "Egirişim RSS",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-025": {
   "name": "SavunmaSanayiST",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-015": {
   "name": "Webrazzi · Yatırım",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 15
  },
  "src-050": {
   "name": "TRT Haber Bilim-Teknoloji RSS",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-004": {
   "name": "Webtekno",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-052": {
   "name": "Webrazzi Yatırım RSS",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 15
  },
  "src-062": {
   "name": "SAÜ Bilgisayar Mühendisliği duyuruları",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-085": {
   "name": "NTV Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 20
  },
  "src-081": {
   "name": "Teknoblog",
-  "fails": 5,
-  "lastRun": "2026-11-03",
-  "lastOk": "2026-10-31",
-  "lastCount": 10,
-  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.teknoblog.com/feed/"
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
  },
  "src-089": {
   "name": "Sabah Teknokulis",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-078": {
   "name": "haber.aero (havacılık, savunma, uzay)",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
-  "lastCount": 10
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-096": {
   "name": "Euronews Türkçe Next",
-  "fails": 5,
-  "lastRun": "2026-10-17",
-  "lastError": "HTTPError: 406 Client Error: Not Acceptable for url: https://tr.euronews.com/rss?level=vertical&name=next"
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 25
  },
  "src-083": {
   "name": "Habertürk Ekonomi",
@@ -191,8 +191,8 @@
  "src-082": {
   "name": "Habertürk Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-098": {
@@ -205,22 +205,22 @@
  "src-060": {
   "name": "Techmeme (The Verge/Ars yerine)",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 15
  },
  "src-086": {
   "name": "Yeni Şafak Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-080": {
   "name": "FinTech İstanbul",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-092": {
@@ -253,11 +253,11 @@
  },
  "src-059": {
   "name": "Siber Bülten",
-  "fails": 5,
-  "lastRun": "2026-10-25",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastOk": "2026-10-22",
   "lastCount": 0,
-  "lastError": "HTTPError: 520 Server Error: <none> for url: https://siberbulten.com/feed"
+  "lastError": "ValueError: RSS çözülemedi: SAXParseException('not well-formed (invalid token)')"
  },
  "src-113": {
   "name": "Teknolojioku",
@@ -274,8 +274,8 @@
  "src-084": {
   "name": "Milliyet Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-106": {
@@ -295,8 +295,8 @@
  "src-099": {
   "name": "Haberler.com Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-114": {
@@ -309,8 +309,8 @@
  "src-112": {
   "name": "Megabayt",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-102": {
@@ -323,8 +323,8 @@
  "src-009": {
   "name": "AA · Bilim-Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-116": {
@@ -337,8 +337,8 @@
  "src-049": {
   "name": "AA Ekonomi RSS (Sanayi Bakanlığı haberleri)",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-118": {
@@ -358,29 +358,29 @@
  "src-107": {
   "name": "CNBC-e",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-194": {
   "name": "OpenAI News",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-196": {
   "name": "Google DeepMind",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-195": {
   "name": "Anthropic News",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-061": {
@@ -393,9 +393,9 @@
  "src-157": {
   "name": "Fintechtime",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
-  "lastCount": 0
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
  },
  "src-200": {
   "name": "NVIDIA Blog",
@@ -414,22 +414,22 @@
  "src-180": {
   "name": "Öğrenci Kariyeri (burs, staj)",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-172": {
   "name": "SAÜ Yazılım Mühendisliği",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-173": {
   "name": "SAÜ Kariyer Merkezi staj ilanları",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-201": {
@@ -484,8 +484,8 @@
  "src-215": {
   "name": "MIT Technology Review",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-217": {
@@ -505,9 +505,9 @@
  "src-207": {
   "name": "Simon Willison",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
-  "lastCount": 25
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-213": {
   "name": "Ben's Bites",
@@ -519,8 +519,8 @@
  "src-221": {
   "name": "The Information (başlıklar)",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 20
  },
  "src-133": {
@@ -561,8 +561,8 @@
  "src-229": {
   "name": "SecurityWeek",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-226": {
@@ -582,8 +582,8 @@
  "src-227": {
   "name": "The Hacker News",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-228": {
@@ -624,8 +624,8 @@
  "src-222": {
   "name": "Tom's Hardware",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-241": {
@@ -659,8 +659,8 @@
  "src-146": {
   "name": "MARKA – Doğu Marmara Kalkınma Ajansı",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-250": {
@@ -681,8 +681,8 @@
  "src-230": {
   "name": "Dark Reading",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-231": {
@@ -716,14 +716,14 @@
  "gnews": {
   "name": "Google Haberler RSS",
   "fails": 0,
-  "lastRun": "2026-11-15",
-  "lastOk": "2026-11-15",
-  "lastCount": 0
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 12
  },
  "src-216": {
   "name": "VentureBeat",
-  "fails": 5,
-  "lastRun": "2026-10-17",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "RetryError: HTTPSConnectionPool(host='venturebeat.com', port=443): Max retries exceeded with url: /feed/ (Caused by ResponseError('too many 429 error responses'"
  },
  "src-115": {
@@ -800,137 +800,138 @@
  "src-008": {
   "name": "Dünya · Bilim ve Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-006": {
   "name": "Chip Online",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-012": {
   "name": "Bloomberg HT · Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-011": {
   "name": "Ekonomim · Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-005": {
   "name": "DonanımHaber",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-020": {
   "name": "TÜBİTAK haberleri",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-035": {
   "name": "Anbean Kampüs",
-  "fails": 5,
-  "lastRun": "2026-10-20",
-  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://anbeankampus.co/etkinlikler/"
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-016": {
   "name": "Webrazzi · Girişimler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 6
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 1
  },
  "src-037": {
   "name": "Devpost",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-032": {
   "name": "Techcareer",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-027": {
   "name": "Türkiye Uzay Ajansı",
-  "fails": 5,
-  "lastRun": "2026-10-20",
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "fails": 6,
+  "lastRun": "2026-11-16",
+  "lastError": "ConnectionError: HTTPSConnectionPool(host='tua.gov.tr', port=443): Max retries exceeded with url: / (Caused by ProtocolError('Connection aborted.', ConnectionRe"
  },
  "src-023": {
   "name": "Resmî Gazete (kök sayfa eski önbellek döndürüyor; günün kararlarını haber siteleri üzerinden ara)",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 6
  },
  "src-033": {
   "name": "Youthall",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-007": {
   "name": "BT Haber",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-031": {
   "name": "Coderspace",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-026": {
   "name": "T3 Vakfı / TEKNOFEST",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-069": {
   "name": "Hugging Face trending papers",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 4
  },
  "src-028": {
   "name": "BT Haber · Güvenlik",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 3
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 4
  },
  "src-051": {
   "name": "LOG",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-064": {
   "name": "SUBÜ Bilgisayar Mühendisliği duyuruları",
-  "fails": 5,
-  "lastRun": "2026-11-12",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastOk": "2026-11-05",
   "lastCount": 1,
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
@@ -938,296 +939,958 @@
  "src-067": {
   "name": "YTÜ haberler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-091": {
   "name": "Sözcü Teknoloji",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "HTTPError: 404 Client Error: Not Found for url: https://www.sozcu.com.tr/teknoloji/"
  },
  "src-100": {
   "name": "Yeni Akit Teknoloji (islam-teknoloji)",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-077": {
   "name": "TÜBİTAK BİDEB açık programlar",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-121": {
   "name": "Sakarya Haber",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-094": {
   "name": "İHA Teknoloji",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 8
  },
  "src-132": {
   "name": "Haber.aero Uzay",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-065": {
   "name": "Sakarya Teknokent haberler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-090": {
   "name": "Hürriyet Teknoloji (sayfa; RSS gecikmeli)",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-138": {
   "name": "TCMB basın duyuruları RSS",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-063": {
   "name": "SAÜ Haber",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-150": {
   "name": "SATSO (Sakarya TSO) komite haberleri",
-  "fails": 5,
-  "lastRun": "2026-10-20",
-  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.satso.org.tr/KomiteHaberleri.aspx"
+  "fails": 6,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-127": {
   "name": "Baykar haberler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-156": {
   "name": "Teknopark İstanbul",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.teknoparkistanbul.com.tr/haberler"
  },
  "src-139": {
   "name": "SPK bültenleri",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-141": {
   "name": "KOSGEB haberler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-066": {
   "name": "GTÜ duyurular",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-148": {
   "name": "Sakarya Büyükşehir",
-  "fails": 1,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-13",
-  "lastCount": 0,
-  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-147": {
   "name": "İSTKA",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-143": {
   "name": "Ulaştırma ve Altyapı Bakanlığı",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-151": {
   "name": "Kocaeli Sanayi Odası",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 25
  },
  "src-152": {
   "name": "TİM haberler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-165": {
   "name": "startups.watch etkinlik takvimi",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-144": {
   "name": "YÖK duyurular",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-166": {
   "name": "Ufuk Avrupa",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-181": {
   "name": "Kariyer Pusulan",
-  "fails": 1,
-  "lastRun": "2026-11-14",
+  "fails": 2,
+  "lastRun": "2026-11-16",
   "lastOk": "2026-11-13",
   "lastCount": 1,
   "lastError": "RetryError: HTTPSConnectionPool(host='kariyerpusulan.com', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 503 error responses'))"
  },
  "src-174": {
   "name": "SAÜ etkinlik takvimi",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-185": {
   "name": "Luma İstanbul (meetup)",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-168": {
   "name": "Yıldız Teknopark haberler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-169": {
   "name": "Yıldız Teknopark duyurular",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-183": {
   "name": "Patika.dev",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-179": {
   "name": "Toptalent",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 2
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-182": {
   "name": "Microfon burslar",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-190": {
   "name": "T3 Vakfı haberler",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 0
  },
  "src-142": {
   "name": "Ticaret Bakanlığı",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 1
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-263": {
   "name": "Halk54 (Sakarya yerel)",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "hf-papers": {
   "name": "Hugging Face Daily Papers API",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-184": {
   "name": "Kodluyoruz",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-262": {
   "name": "Ekonomi Gazetesi şehir haberleri (Sakarya)",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-177": {
   "name": "İTÜ haberler",
-  "fails": 5,
-  "lastRun": "2026-10-20",
+  "fails": 6,
+  "lastRun": "2026-11-16",
   "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
  },
  "src-189": {
   "name": "Habitat Derneği",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
-  "lastCount": 10
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
  },
  "src-122": {
   "name": "Gündem54 (Sakarya)",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
  },
  "src-134": {
   "name": "Envanter Medya",
   "fails": 0,
-  "lastRun": "2026-11-14",
-  "lastOk": "2026-11-14",
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
   "lastCount": 10
+ },
+ "src-014": {
+  "name": "startups.watch",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-019": {
+  "name": "Sanayi ve Teknoloji Bakanlığı (erişim reddediliyor; AA Ekonomi ve TRT RSS'ten takip et)",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-013": {
+  "name": "Para Dergi · Teknoloji",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-038": {
+  "name": "MLH",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-039": {
+  "name": "Webrazzi Etkinlikler",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-045": {
+  "name": "Darknet Diaries",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-021": {
+  "name": "BTK",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-024": {
+  "name": "Cumhurbaşkanlığı Yatırım Ofisi",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-054": {
+  "name": "upcorn Shot TR (haftalık)",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://upcorn.substack.com/feed"
+ },
+ "src-022": {
+  "name": "KVKK (kök sayfa eski önbellek döndürüyor; LOG ve AA üzerinden takip et)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-048": {
+  "name": "Egirişim · katılım bankacılığı ve fintech",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-036": {
+  "name": "GDG topluluk etkinlikleri (liste boş dönüyor; gdg.community.dev/gdg-kocaeli ve gdg-istanbul sayfalarına bak)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-056": {
+  "name": "İTÜ Çekirdek blog",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-046": {
+  "name": "Lex Fridman Podcast",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-055": {
+  "name": "Fundalina haftalık fintech gündemi",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-057": {
+  "name": "YTÜ Startup House blog",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-072": {
+  "name": "Güvenlik konferansı son tarihleri",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-074": {
+  "name": "Koç KUIS AI",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://ai.ku.edu.tr/"
+ },
+ "src-076": {
+  "name": "YTÜ COSMOS (Hugging Face)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-068": {
+  "name": "Boğaziçi haberler",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-071": {
+  "name": "papers.cool (konferans makaleleri)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-075": {
+  "name": "Hacettepe AI haberleri",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-073": {
+  "name": "SAUCIS (Sakarya Üni. bilgisayar dergisi)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-095": {
+  "name": "DHA 6G / telekom",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-108": {
+  "name": "Platin",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-101": {
+  "name": "Diyanet Haber (islam-teknoloji)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 25
+ },
+ "src-111": {
+  "name": "Indigo Dergisi",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 15
+ },
+ "src-125": {
+  "name": "Kocaeli Barış",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.kocaelibarisgazetesi.com/"
+ },
+ "src-047": {
+  "name": "İLKE Analiz",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-109": {
+  "name": "HBR Türkiye",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-119": {
+  "name": "Techcareer Blog",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-120": {
+  "name": "Youthall Blog",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-124": {
+  "name": "Habertürk Kocaeli",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-123": {
+  "name": "Habertürk Sakarya",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-128": {
+  "name": "MKE haberler",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-140": {
+  "name": "Rekabet Kurumu duyurular",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-137": {
+  "name": "SASAD",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-130": {
+  "name": "TÜBİTAK UZAY",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-131": {
+  "name": "TÜBİTAK MAM (Gebze)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-129": {
+  "name": "TÜBİTAK BİLGEM",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-149": {
+  "name": "Kocaeli Büyükşehir duyurular",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-154": {
+  "name": "YASAD",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-163": {
+  "name": "Endeavor Türkiye",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-145": {
+  "name": "TÜİK bültenleri",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-160": {
+  "name": "İLKE Vakfı haberler",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-155": {
+  "name": "TESİD",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-161": {
+  "name": "Salaam Gateway",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-162": {
+  "name": "DinarStandard",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-153": {
+  "name": "TÜBİSAD",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-126": {
+  "name": "SSB haberler (pazartesi haftalık özet)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-158": {
+  "name": "TÖDEB",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-159": {
+  "name": "TKBB (Katılım Bankaları Birliği)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-171": {
+  "name": "GOSB Teknopark etkinlikler",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-164": {
+  "name": "212 VC",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-176": {
+  "name": "Kocaeli Sağlık ve Teknoloji Üniversitesi",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-170": {
+  "name": "Marmara Teknokent",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-178": {
+  "name": "Sabancı gazeteSU",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-167": {
+  "name": "ARI Teknokent",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-186": {
+  "name": "GDG Kocaeli",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-187": {
+  "name": "GDG İstanbul",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-175": {
+  "name": "SAÜ kurum dışı duyurular",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-204": {
+  "name": "Apple ML Research",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 6
+ },
+ "src-208": {
+  "name": "Import AI",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://importai.substack.com/feed"
+ },
+ "src-209": {
+  "name": "The Batch (deeplearning.ai)",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.deeplearning.ai/the-batch"
+ },
+ "src-192": {
+  "name": "TEGV",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-191": {
+  "name": "YGA",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-205": {
+  "name": "AWS ML Blog",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 20
+ },
+ "src-242": {
+  "name": "Stack Overflow Blog",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 25
+ },
+ "src-232": {
+  "name": "Schneier on Security",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-249": {
+  "name": "EU AI Act Newsletter",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://artificialintelligenceact.substack.com/feed"
+ },
+ "src-211": {
+  "name": "Interconnects",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 20
+ },
+ "src-246": {
+  "name": "CNCF Blog",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-255": {
+  "name": "Quanta Magazine (CS)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 5
+ },
+ "src-247": {
+  "name": "Linux Foundation",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-254": {
+  "name": "Stanford HAI",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-193": {
+  "name": "TEV burs duyuruları",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-253": {
+  "name": "OECD.AI Wonk",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-264": {
+  "name": "Ada Postası (Sakarya yerel)",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "HTTPError: 403 Client Error: Forbidden for url: https://www.adapostasi.com/"
+ },
+ "src-188": {
+  "name": "Linux Kullanıcıları Derneği",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-248": {
+  "name": "The Pragmatic Engineer",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 20
+ },
+ "src-260": {
+  "name": "Sakarya Teknokent TeknoStory (firma tanıtımları)",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-266": {
+  "name": "Sakarya BB DİGEM",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-265": {
+  "name": "Bizim Sakarya",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-225": {
+  "name": "Chips and Cheese",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 20
+ },
+ "src-268": {
+  "name": "ESN Sakarya haberleri",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-270": {
+  "name": "Birlik Vakfı Sakarya",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-267": {
+  "name": "KADEM Sakarya haberleri",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-269": {
+  "name": "Ensar Vakfı Sakarya haberleri",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-271": {
+  "name": "Genç MÜSİAD Sakarya",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-273": {
+  "name": "SAÜ İlahiyat Fakültesi Vakfı duyuruları",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-274": {
+  "name": "SAÜ Mezun İlişkileri",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 0
+ },
+ "src-275": {
+  "name": "Otokar",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "src-212": {
+  "name": "Ahead of AI (S. Raschka)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 6
+ },
+ "src-259": {
+  "name": "Hard Fork (podcast)",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 25
+ },
+ "src-233": {
+  "name": "Google Project Zero",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 10
+ },
+ "src-276": {
+  "name": "SEDAŞ basın bültenleri",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ValueError: Sayfada bağlantı bulunamadı (JS ile yükleniyor olabilir)"
+ },
+ "openalex": {
+  "name": "OpenAlex API",
+  "fails": 0,
+  "lastRun": "2026-11-16",
+  "lastOk": "2026-11-16",
+  "lastCount": 35
+ },
+ "src-272": {
+  "name": "Türk Kızılay Sakarya",
+  "fails": 1,
+  "lastRun": "2026-11-16",
+  "lastError": "ConnectTimeout: HTTPSConnectionPool(host='sakarya.kizilay.org.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(h"
  }
 }
