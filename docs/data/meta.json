@@ -1,12 +1,12 @@
 {
- "lastRun": "2026-11-25T17:50:17+03:00",
- "slot": "aksam",
+ "lastRun": "2026-11-26T03:33:33+03:00",
+ "slot": "sabah",
  "weekly": false,
- "jobs": 135,
- "errors": 0,
- "new": 302,
- "merged": 16,
- "total": 19934,
+ "jobs": 123,
+ "errors": 1,
+ "new": 210,
+ "merged": 9,
+ "total": 20144,
  "llm": false,
- "seconds": 20
+ "seconds": 16
 }
